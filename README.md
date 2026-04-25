@@ -69,4 +69,4 @@ Distributed under the MIT License.
 ---
 
 ### 👤 Author
-Russel Anthony Reynold Chandanshiv
+Russel Reynold Chandanshiv
